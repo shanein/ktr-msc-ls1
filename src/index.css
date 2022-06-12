@@ -1,0 +1,17 @@
+.min-width {
+  min-width: 400px;
+}
+
+.list-cards{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 30px 20px;
+  color: white;
+}
+
+.list-cards > div {
+  border-radius: 20px;
+  padding: 20px;
+  background-color: #212529;
+  color: white;
+}
