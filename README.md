@@ -39,32 +39,15 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+![Capture d’écran 2022-06-12 174431](https://user-images.githubusercontent.com/58492282/173242020-5b118994-5fe3-472c-8156-b33c641b5b08.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Capture d’écran 2022-06-12 174451](https://user-images.githubusercontent.com/58492282/173242034-7ff6f4fe-e244-483a-a807-5260934ca01f.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Capture d’écran 2022-06-12 174505](https://user-images.githubusercontent.com/58492282/173242036-d6fa4cba-bb35-495a-8aaf-05dad7c03215.png)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Capture d’écran 2022-06-12 174307](https://user-images.githubusercontent.com/58492282/173242052-458617c1-05fc-455a-b454-9a60dac4ddac.png)
 
-### Analyzing the Bundle Size
+![Capture d’écran 2022-06-12 174819](https://user-images.githubusercontent.com/58492282/173242069-429015f9-a1de-47f3-803a-94c02789fd39.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
